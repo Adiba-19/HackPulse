@@ -1,0 +1,3 @@
+Topic Name : Create a gamified application to encourage and track daily water intake.                                                                                                                                     
+Description : We can set our own goals according to our drinking capacity in terms of glasses , we have also added a customize avatar which is  a gamified thing added in my project .
+Steps to access : Install npm first then open terminal uing Windows+R then , type your folder name to access the folder , then type a command npm init -y then type our backend file name by adding a word node to it.
